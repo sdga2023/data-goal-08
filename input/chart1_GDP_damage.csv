@@ -1,0 +1,449 @@
+﻿"country","iso3c","Country Name","Year","GDP Growth","neg_growth","iso2c","status","lastupdated","SP.POP.TOTL","region","capital","longitude","latitude","income","lending","GDP Growth Avg (2010-19)"
+"East Asia and Pacific","EAS","East Asia and Pacific",2020,1.2,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.142874782552167
+"East Asia and Pacific","EAS","East Asia and Pacific",2021,7.2,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.142874782552167
+"East Asia and Pacific","EAS","East Asia and Pacific",2022,3.2,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.142874782552167
+"East Asia and Pacific","EAS","East Asia and Pacific",2023,4.3,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.142874782552167
+"East Asia and Pacific","EAS","East Asia and Pacific",2024,4.9,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5.142874782552167
+"Europe and Central Asia","ECS","Europe and Central Asia",2020,-1.7,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.899653475099797
+"Europe and Central Asia","ECS","Europe and Central Asia",2021,6.7,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.899653475099797
+"Europe and Central Asia","ECS","Europe and Central Asia",2022,0.2,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.899653475099797
+"Europe and Central Asia","ECS","Europe and Central Asia",2023,0.1,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.899653475099797
+"Europe and Central Asia","ECS","Europe and Central Asia",2024,2.8,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1.899653475099797
+"Latin America and the Caribbean","LCN","Latin America and the Caribbean",2020,-6.2,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America and the Caribbean","LCN","Latin America and the Caribbean",2021,6.8,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America and the Caribbean","LCN","Latin America and the Caribbean",2022,3.6,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America and the Caribbean","LCN","Latin America and the Caribbean",2023,1.3,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America and the Caribbean","LCN","Latin America and the Caribbean",2024,2.4,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Middle East and North Africa","MEA","Middle East and North Africa",2020,-3.6,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.014009308851295
+"Middle East and North Africa","MEA","Middle East and North Africa",2021,3.7,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.014009308851295
+"Middle East and North Africa","MEA","Middle East and North Africa",2022,5.7,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.014009308851295
+"Middle East and North Africa","MEA","Middle East and North Africa",2023,3.5,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.014009308851295
+"Middle East and North Africa","MEA","Middle East and North Africa",2024,2.7,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.014009308851295
+"South Asia","SAS","South Asia",2020,-4.5,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2734334976755575
+"South Asia","SAS","South Asia",2021,7.9,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2734334976755575
+"South Asia","SAS","South Asia",2022,6.1,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2734334976755575
+"South Asia","SAS","South Asia",2023,5.5,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2734334976755575
+"South Asia","SAS","South Asia",2024,5.8,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.2734334976755575
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2020,-2,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2021,4.3,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2022,3.4,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2023,3.6,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2024,3.9,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"World (WBG members)","WLT","World (WBG members)",2020,-3.2,TRUE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.160060688728191
+"World (WBG members)","WLT","World (WBG members)",2021,5.9,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.160060688728191
+"World (WBG members)","WLT","World (WBG members)",2022,2.9,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.160060688728191
+"World (WBG members)","WLT","World (WBG members)",2023,1.7,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.160060688728191
+"World (WBG members)","WLT","World (WBG members)",2024,2.7,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.160060688728191
+"East Asia & Pacific","EAS","East Asia and Pacific",1961,3.77635723228099,FALSE,"Z4","","2022-12-22",1045203037,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1995,5.66872802325594,FALSE,"Z4","","2022-12-22",1940892820,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1994,5.23701352900083,FALSE,"Z4","","2022-12-22",1917553356,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1999,3.73364972780317,FALSE,"Z4","","2022-12-22",2028993034,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1962,5.49186706292922,FALSE,"Z4","","2022-12-22",1059600211,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1998,0.447843030025965,FALSE,"Z4","","2022-12-22",2008680261,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2004,5.86708910547335,FALSE,"Z4","","2022-12-22",2116651449,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1976,4.25754402714995,FALSE,"Z4","","2022-12-22",1464087148,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1977,5.42281231871868,FALSE,"Z4","","2022-12-22",1486953865,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1978,5.79801941090139,FALSE,"Z4","","2022-12-22",1510060320,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1979,5.91494466743742,FALSE,"Z4","","2022-12-22",1533514709,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1980,3.78656142258819,FALSE,"Z4","","2022-12-22",1556403010,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1996,5.61958864772424,FALSE,"Z4","","2022-12-22",1964042971,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1997,4.0544847087214,FALSE,"Z4","","2022-12-22",1986768093,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1983,4.42727608468452,FALSE,"Z4","","2022-12-22",1631735726,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1984,6.16005098968499,FALSE,"Z4","","2022-12-22",1656258164,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1985,5.70025213662655,FALSE,"Z4","","2022-12-22",1681267266,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1986,4.92477499713306,FALSE,"Z4","","2022-12-22",1707611028,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1974,0.879557732080201,FALSE,"Z4","","2022-12-22",1413718269,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1975,3.70488579519571,FALSE,"Z4","","2022-12-22",1439944265,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1989,5.15125721096558,FALSE,"Z4","","2022-12-22",1791156275,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1990,5.06970601468393,FALSE,"Z4","","2022-12-22",1818247576,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1991,4.85256209542524,FALSE,"Z4","","2022-12-22",1844603995,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1992,4.2359307771344,FALSE,"Z4","","2022-12-22",1869453624,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1993,4.20082036826655,FALSE,"Z4","","2022-12-22",1893594516,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2007,7.46728778706076,FALSE,"Z4","","2022-12-22",2164155292,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2008,4.38605522630114,FALSE,"Z4","","2022-12-22",2179914111,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2009,2.55996353542018,FALSE,"Z4","","2022-12-22",2195169711,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2010,7.60930266076711,FALSE,"Z4","","2022-12-22",2210203758,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2011,5.46500060840098,FALSE,"Z4","","2022-12-22",2225992094,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2012,5.17944525559686,FALSE,"Z4","","2022-12-22",2243776727,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1987,6.25497680483942,FALSE,"Z4","","2022-12-22",1735427884,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1988,7.59981868886159,FALSE,"Z4","","2022-12-22",1763555005,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2001,3.30310472531767,FALSE,"Z4","","2022-12-22",2066530023,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2002,4.37811810518988,FALSE,"Z4","","2022-12-22",2083969920,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2003,4.94661858778763,FALSE,"Z4","","2022-12-22",2100610344,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2005,5.89943640345389,FALSE,"Z4","","2022-12-22",2132517760,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2006,6.45317688254032,FALSE,"Z4","","2022-12-22",2148405823,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1966,8.6773992069642,FALSE,"Z4","","2022-12-22",1166227679,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1981,4.67381692662023,FALSE,"Z4","","2022-12-22",1580048609,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1982,4.15281191865463,FALSE,"Z4","","2022-12-22",1605925794,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1965,6.99305778809666,FALSE,"Z4","","2022-12-22",1136927045,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2015,4.71563211048156,FALSE,"Z4","","2022-12-22",2294507020,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1967,7.69620095317084,FALSE,"Z4","","2022-12-22",1194567141,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2013,5.24212178111463,FALSE,"Z4","","2022-12-22",2261274500,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2014,4.75850893773386,FALSE,"Z4","","2022-12-22",2278232287,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2019,3.98661620716271,FALSE,"Z4","","2022-12-22",2353862247,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2016,4.66967864196437,FALSE,"Z4","","2022-12-22",2310721864,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2017,5.05356173742197,FALSE,"Z4","","2022-12-22",2327134580,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2018,4.74887988487762,FALSE,"Z4","","2022-12-22",2341387076,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1969,11.5005946958013,FALSE,"Z4","","2022-12-22",1255933616,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",2000,5.3910523126347,FALSE,"Z4","","2022-12-22",2048148696,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1963,7.80514212273937,FALSE,"Z4","","2022-12-22",1085398906,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1964,10.5568517355512,FALSE,"Z4","","2022-12-22",1110819272,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1973,7.66115681306809,FALSE,"Z4","","2022-12-22",1384704173,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1971,5.31729554167559,FALSE,"Z4","","2022-12-22",1322732627,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1968,9.54198235247318,FALSE,"Z4","","2022-12-22",1224255729,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1970,5.38827384652978,FALSE,"Z4","","2022-12-22",1288490485,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"East Asia & Pacific","EAS","East Asia and Pacific",1972,7.21311349156552,FALSE,"Z4","","2022-12-22",1354211283,"Aggregates","","","","Aggregates","Aggregates",5.142874782552167
+"Europe & Central Asia","ECS","Europe and Central Asia",2019,1.79018369838072,FALSE,"Z7","","2022-12-22",921179725,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1984,2.64571828659098,FALSE,"Z7","","2022-12-22",812373901,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2008,1.0266198240615,FALSE,"Z7","","2022-12-22",882357452,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2017,2.87169948671033,FALSE,"Z7","","2022-12-22",915855416,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2018,2.1781419667827,FALSE,"Z7","","2022-12-22",918782553,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2014,1.92351841106309,FALSE,"Z7","","2022-12-22",903601049,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2009,-4.43940754784305,TRUE,"Z7","","2022-12-22",885846236,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2016,1.93595817989325,FALSE,"Z7","","2022-12-22",912374705,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2013,0.849616032453568,FALSE,"Z7","","2022-12-22",899035925,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2003,1.79131603317875,FALSE,"Z7","","2022-12-22",867701442,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2004,3.17772914787034,FALSE,"Z7","","2022-12-22",870270838,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2005,2.66038801157231,FALSE,"Z7","","2022-12-22",872913705,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2002,1.58256622809634,FALSE,"Z7","","2022-12-22",865474170,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2007,3.64505577048205,FALSE,"Z7","","2022-12-22",878767025,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1983,1.97344413326847,FALSE,"Z7","","2022-12-22",807523838,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1995,2.13863850590621,FALSE,"Z7","","2022-12-22",856511549,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2006,3.83036192045667,FALSE,"Z7","","2022-12-22",875627934,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2011,2.32875439102571,FALSE,"Z7","","2022-12-22",891279641,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2012,0.351186296180074,FALSE,"Z7","","2022-12-22",894762079,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2015,2.08236005630904,FALSE,"Z7","","2022-12-22",908123143,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2001,2.19767942105096,FALSE,"Z7","","2022-12-22",863909133,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1975,-0.535688979401357,TRUE,"Z7","","2022-12-22",766169722,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1976,4.69107602742542,FALSE,"Z7","","2022-12-22",771592697,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1977,2.84709693916585,FALSE,"Z7","","2022-12-22",776918691,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1980,1.33621636198296,FALSE,"Z7","","2022-12-22",792890531,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1981,0.475548398481763,FALSE,"Z7","","2022-12-22",798088129,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1982,0.950090677397412,FALSE,"Z7","","2022-12-22",802876253,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1994,1.23388853417417,FALSE,"Z7","","2022-12-22",854892657,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1968,NA,NA,"Z7","","2022-12-22",725451120,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2010,2.68511623219949,FALSE,"Z7","","2022-12-22",889222824,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1997,2.99955851414977,FALSE,"Z7","","2022-12-22",859711482,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1998,2.59104718804035,FALSE,"Z7","","2022-12-22",860876126,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1973,6.02258183940296,FALSE,"Z7","","2022-12-22",755000965,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1974,2.15926886005006,FALSE,"Z7","","2022-12-22",760680926,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1961,NA,NA,"Z7","","2022-12-22",673957844,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1962,NA,NA,"Z7","","2022-12-22",681809362,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1963,NA,NA,"Z7","","2022-12-22",689682704,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1964,NA,NA,"Z7","","2022-12-22",697559598,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1965,NA,NA,"Z7","","2022-12-22",705233118,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1966,NA,NA,"Z7","","2022-12-22",712077088,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1967,NA,NA,"Z7","","2022-12-22",718884137,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1992,-0.517387232731622,TRUE,"Z7","","2022-12-22",849816712,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1969,NA,NA,"Z7","","2022-12-22",731787358,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1970,NA,NA,"Z7","","2022-12-22",737398504,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1971,3.68266436251487,FALSE,"Z7","","2022-12-22",742959749,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1972,4.73989716982169,FALSE,"Z7","","2022-12-22",749086046,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1999,2.86993638706157,FALSE,"Z7","","2022-12-22",861848594,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1985,2.80399779634189,FALSE,"Z7","","2022-12-22",817313920,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1986,2.75654648776067,FALSE,"Z7","","2022-12-22",822429830,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1987,3.08772081918973,FALSE,"Z7","","2022-12-22",827666924,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1988,4.24955592959324,FALSE,"Z7","","2022-12-22",832965846,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1978,3.23001435038503,FALSE,"Z7","","2022-12-22",782220413,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1979,3.76388043105645,FALSE,"Z7","","2022-12-22",787502492,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1991,0.432814709120535,FALSE,"Z7","","2022-12-22",846364518,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1993,-0.731741742226276,TRUE,"Z7","","2022-12-22",852735458,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1996,1.69483503296841,FALSE,"Z7","","2022-12-22",858209225,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1990,2.32551077447447,FALSE,"Z7","","2022-12-22",842030509,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",2000,4.32473658880002,FALSE,"Z7","","2022-12-22",862786211,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Europe & Central Asia","ECS","Europe and Central Asia",1989,3.53410400351142,FALSE,"Z7","","2022-12-22",837807042,"Aggregates","","","","Aggregates","Aggregates",1.899653475099797
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2009,-1.99176162229881,TRUE,"ZJ","","2022-12-22",582738079,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2010,6.42738402199457,FALSE,"ZJ","","2022-12-22",588873862,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2011,4.44873225699638,FALSE,"ZJ","","2022-12-22",595510008,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2012,2.5706332447044,FALSE,"ZJ","","2022-12-22",602139396,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2013,2.85444719223258,FALSE,"ZJ","","2022-12-22",608642242,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2014,1.38736873501415,FALSE,"ZJ","","2022-12-22",615046755,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2015,0.52391955163904,FALSE,"ZJ","","2022-12-22",621390109,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2016,-0.162506120482277,TRUE,"ZJ","","2022-12-22",627668470,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2017,1.87848999023697,FALSE,"ZJ","","2022-12-22",633797190,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2018,1.63016660289037,FALSE,"ZJ","","2022-12-22",639628226,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2019,0.734395356277147,FALSE,"ZJ","","2022-12-22",645295804,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1961,6.15398623836163,FALSE,"ZJ","","2022-12-22",225304612,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1962,4.30658309181678,FALSE,"ZJ","","2022-12-22",231638540,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1963,2.00647212651717,FALSE,"ZJ","","2022-12-22",238127927,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1964,7.2008924562563,FALSE,"ZJ","","2022-12-22",244742056,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1965,5.6476459021589,FALSE,"ZJ","","2022-12-22",251458185,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1966,4.93231016656644,FALSE,"ZJ","","2022-12-22",258225265,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1967,4.31688270519315,FALSE,"ZJ","","2022-12-22",265030167,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1968,7.07276710696428,FALSE,"ZJ","","2022-12-22",271885703,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1969,6.8968253434291,FALSE,"ZJ","","2022-12-22",278797542,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1970,6.51977170047802,FALSE,"ZJ","","2022-12-22",285779012,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1971,6.94734790628036,FALSE,"ZJ","","2022-12-22",292852914,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1972,7.16701679065056,FALSE,"ZJ","","2022-12-22",300036114,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1973,8.02140159560125,FALSE,"ZJ","","2022-12-22",307345195,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1974,6.28019114012494,FALSE,"ZJ","","2022-12-22",314759757,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1975,3.55274239771022,FALSE,"ZJ","","2022-12-22",322249100,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1976,5.45821311459602,FALSE,"ZJ","","2022-12-22",329807630,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1977,4.89601375151618,FALSE,"ZJ","","2022-12-22",337531513,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1978,4.45284895019491,FALSE,"ZJ","","2022-12-22",345450768,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1979,7.34618346243036,FALSE,"ZJ","","2022-12-22",353452209,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1980,6.710382481948,FALSE,"ZJ","","2022-12-22",361451180,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1981,0.812916646831411,FALSE,"ZJ","","2022-12-22",369321289,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1982,-0.287996753177993,TRUE,"ZJ","","2022-12-22",377189872,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1983,-1.91651592027789,TRUE,"ZJ","","2022-12-22",385189898,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1984,3.87527593857409,FALSE,"ZJ","","2022-12-22",393227113,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1985,3.22753196369874,FALSE,"ZJ","","2022-12-22",401251731,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1986,3.83385455557517,FALSE,"ZJ","","2022-12-22",409259052,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1987,3.23154334339459,FALSE,"ZJ","","2022-12-22",417266298,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1988,0.619815434103657,FALSE,"ZJ","","2022-12-22",425320442,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1989,1.79449379772096,FALSE,"ZJ","","2022-12-22",433393694,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1990,-0.477576763849257,TRUE,"ZJ","","2022-12-22",441597528,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1991,2.99316361948318,FALSE,"ZJ","","2022-12-22",449847635,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1992,2.54293892947837,FALSE,"ZJ","","2022-12-22",458008075,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1993,4.17448226044117,FALSE,"ZJ","","2022-12-22",466139063,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1994,5.37929703731872,FALSE,"ZJ","","2022-12-22",474258790,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1995,0.846333963485947,FALSE,"ZJ","","2022-12-22",482331291,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1996,4.05975270997567,FALSE,"ZJ","","2022-12-22",490304061,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1997,5.28920825253203,FALSE,"ZJ","","2022-12-22",498199382,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1998,2.64427483252095,FALSE,"ZJ","","2022-12-22",506010566,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",1999,0.643603587506874,FALSE,"ZJ","","2022-12-22",513714410,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2000,3.56139581794032,FALSE,"ZJ","","2022-12-22",521281149,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2001,0.488429089333394,FALSE,"ZJ","","2022-12-22",528688278,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2002,0.526894700550073,FALSE,"ZJ","","2022-12-22",535935546,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2003,2.54591616851636,FALSE,"ZJ","","2022-12-22",542976557,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2004,5.58634903515527,FALSE,"ZJ","","2022-12-22",549897638,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2005,4.00992080853977,FALSE,"ZJ","","2022-12-22",556739532,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2006,5.05921330051137,FALSE,"ZJ","","2022-12-22",563424119,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2007,5.28842304603498,FALSE,"ZJ","","2022-12-22",569972223,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Latin America & Caribbean","LCN","Latin America and the Caribbean",2008,3.72917956269174,FALSE,"ZJ","","2022-12-22",576386180,NA,NA,NA,NA,NA,NA,2.229303083150333
+"Middle East & North Africa","MEA","Middle East and North Africa",1961,NA,NA,"ZQ","","2022-12-22",107670788,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1997,3.70275212485653,FALSE,"ZQ","","2022-12-22",301680248,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1998,4.57102660820637,FALSE,"ZQ","","2022-12-22",308041622,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1962,NA,NA,"ZQ","","2022-12-22",110538003,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2019,1.1225485598259,FALSE,"ZQ","","2022-12-22",473201775,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1981,1.6626631717579,FALSE,"ZQ","","2022-12-22",192641039,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1999,1.97945900695171,FALSE,"ZQ","","2022-12-22",314472124,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1994,2.46362665696689,FALSE,"ZQ","","2022-12-22",282903612,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1982,-3.62123829910587,TRUE,"ZQ","","2022-12-22",199419033,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1983,-2.91190071109907,TRUE,"ZQ","","2022-12-22",205927091,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1984,-0.474378301721885,TRUE,"ZQ","","2022-12-22",212683895,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1985,-1.0240599884052,TRUE,"ZQ","","2022-12-22",219522781,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1986,1.12019518198639,FALSE,"ZQ","","2022-12-22",226490767,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1987,-0.595056381494402,TRUE,"ZQ","","2022-12-22",233512587,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1988,3.59193027854512,FALSE,"ZQ","","2022-12-22",240428079,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1989,2.67537076247643,FALSE,"ZQ","","2022-12-22",247406122,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1990,13.1425611981536,FALSE,"ZQ","","2022-12-22",256203998,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1991,4.16902275266212,FALSE,"ZQ","","2022-12-22",263445808,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1992,4.77325178114141,FALSE,"ZQ","","2022-12-22",270652251,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1993,2.2224908342005,FALSE,"ZQ","","2022-12-22",276897626,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1969,NA,NA,"ZQ","","2022-12-22",133970600,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1995,2.83879024474696,FALSE,"ZQ","","2022-12-22",289154944,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1996,5.0456326469408,FALSE,"ZQ","","2022-12-22",295366235,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1972,NA,NA,"ZQ","","2022-12-22",145744541,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1973,NA,NA,"ZQ","","2022-12-22",149964066,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1974,NA,NA,"ZQ","","2022-12-22",154334030,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2000,6.74989878265953,FALSE,"ZQ","","2022-12-22",321037453,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1963,NA,NA,"ZQ","","2022-12-22",113518054,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1964,NA,NA,"ZQ","","2022-12-22",116624655,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1965,NA,NA,"ZQ","","2022-12-22",119831991,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1966,NA,NA,"ZQ","","2022-12-22",123155200,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1967,NA,NA,"ZQ","","2022-12-22",126678043,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1968,NA,NA,"ZQ","","2022-12-22",130258116,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2006,5.82442518484545,FALSE,"ZQ","","2022-12-22",362633997,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1970,NA,NA,"ZQ","","2022-12-22",137811201,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1971,NA,NA,"ZQ","","2022-12-22",141732410,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2009,0.6397973486078,FALSE,"ZQ","","2022-12-22",389332369,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2010,5.02883119157542,FALSE,"ZQ","","2022-12-22",397997557,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2011,3.59495728870576,FALSE,"ZQ","","2022-12-22",406045323,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1975,NA,NA,"ZQ","","2022-12-22",159064212,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1976,16.5729524418973,FALSE,"ZQ","","2022-12-22",164465177,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1977,4.63849413409388,FALSE,"ZQ","","2022-12-22",169960807,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1978,-4.13579313016015,TRUE,"ZQ","","2022-12-22",174922290,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1979,5.1797722892505504,FALSE,"ZQ","","2022-12-22",180155296,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",1980,2.1796686446943,FALSE,"ZQ","","2022-12-22",186021685,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2005,5.01555426874738,FALSE,"ZQ","","2022-12-22",354462370,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2001,1.48728699237728,FALSE,"ZQ","","2022-12-22",327691655,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2007,5.21850491929857,FALSE,"ZQ","","2022-12-22",371324802,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2008,4.58950248949535,FALSE,"ZQ","","2022-12-22",380294099,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2013,2.21542262299018,FALSE,"ZQ","","2022-12-22",422790409,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2018,2.05288221173949,FALSE,"ZQ","","2022-12-22",465073490,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2002,1.48238486690644,FALSE,"ZQ","","2022-12-22",333949565,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2012,4.32583732391126,FALSE,"ZQ","","2022-12-22",414117603,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2004,7.86939567968447,FALSE,"ZQ","","2022-12-22",347044925,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2017,1.62547966892683,FALSE,"ZQ","","2022-12-22",456885486,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2014,3.25955900678565,FALSE,"ZQ","","2022-12-22",431664579,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2003,5.04857075390323,FALSE,"ZQ","","2022-12-22",340215354,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2016,4.29470121663252,FALSE,"ZQ","","2022-12-22",448917409,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"Middle East & North Africa","MEA","Middle East and North Africa",2015,2.61987399741994,FALSE,"ZQ","","2022-12-22",440506473,"Aggregates","","","","Aggregates","Aggregates",3.014009308851295
+"South Asia","SAS","South Asia",1983,6.65890240739225,FALSE,"8S","","2022-12-22",971004522,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1964,7.76100306491563,FALSE,"8S","","2022-12-22",627943361,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1965,-0.6586586543051,TRUE,"8S","","2022-12-22",642724630,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1961,4.19521737467896,FALSE,"8S","","2022-12-22",584883506,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1962,3.39686266674451,FALSE,"8S","","2022-12-22",598869387,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1963,5.25632529832029,FALSE,"8S","","2022-12-22",613229525,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2004,7.50738837524952,FALSE,"8S","","2022-12-22",1515599723,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2005,7.51755059036729,FALSE,"8S","","2022-12-22",1541135031,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2006,7.62592461417699,FALSE,"8S","","2022-12-22",1565718156,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2007,7.23302973049607,FALSE,"8S","","2022-12-22",1589218004,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2008,3.26410227020889,FALSE,"8S","","2022-12-22",1612407426,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2009,6.92824887187915,FALSE,"8S","","2022-12-22",1636052663,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2010,7.46877365882612,FALSE,"8S","","2022-12-22",1660139325,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2011,5.1102441269135,FALSE,"8S","","2022-12-22",1684436757,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2012,5.46797846360599,FALSE,"8S","","2022-12-22",1708114582,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2013,6.03378546338587,FALSE,"8S","","2022-12-22",1731137145,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2014,6.93862119201201,FALSE,"8S","","2022-12-22",1753568847,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2015,7.33607191967745,FALSE,"8S","","2022-12-22",1775178483,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2016,7.6822405823338,FALSE,"8S","","2022-12-22",1796850154,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2017,6.52700924395262,FALSE,"8S","","2022-12-22",1818868706,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2018,6.33423835295879,FALSE,"8S","","2022-12-22",1840534093,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2019,3.83537197308942,FALSE,"8S","","2022-12-22",1861598514,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1979,-2.6264514795084,TRUE,"8S","","2022-12-22",884140063,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1980,6.45855471543277,FALSE,"8S","","2022-12-22",905085264,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1981,6.41653702059193,FALSE,"8S","","2022-12-22",926290449,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1982,3.8205172342991,FALSE,"8S","","2022-12-22",948106347,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1996,6.73900850679897,FALSE,"8S","","2022-12-22",1299452085,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1984,4.21741017594175,FALSE,"8S","","2022-12-22",994421612,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1985,5.43055781899659,FALSE,"8S","","2022-12-22",1018226720,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1986,4.8171606192777,FALSE,"8S","","2022-12-22",1042259867,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1987,4.22489062453832,FALSE,"8S","","2022-12-22",1066468674,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1988,8.38066343172605,FALSE,"8S","","2022-12-22",1091108954,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1989,5.38454234639694,FALSE,"8S","","2022-12-22",1116263876,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1990,5.39585955022177,FALSE,"8S","","2022-12-22",1141434379,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1991,2.05935550311264,FALSE,"8S","","2022-12-22",1166599697,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1992,5.77253215269353,FALSE,"8S","","2022-12-22",1192502803,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1993,4.32902701654787,FALSE,"8S","","2022-12-22",1219279298,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1994,5.95291017189172,FALSE,"8S","","2022-12-22",1246240229,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1995,6.84506308489412,FALSE,"8S","","2022-12-22",1272943087,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1969,5.78082567266173,FALSE,"8S","","2022-12-22",704208559,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1997,3.73773249644785,FALSE,"8S","","2022-12-22",1326029761,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1998,5.49078110495917,FALSE,"8S","","2022-12-22",1352853147,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1999,7.57189651118568,FALSE,"8S","","2022-12-22",1379867738,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2000,4.11030656443153,FALSE,"8S","","2022-12-22",1406946728,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2001,4.43609765878863,FALSE,"8S","","2022-12-22",1434306106,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2002,3.6023935133986,FALSE,"8S","","2022-12-22",1462021914,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",2003,7.25192951807303,FALSE,"8S","","2022-12-22",1489278936,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1977,6.25339667504944,FALSE,"8S","","2022-12-22",844313926,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1978,6.11086417756994,FALSE,"8S","","2022-12-22",863971060,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1966,1.18866241146111,FALSE,"8S","","2022-12-22",657462990,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1967,6.11801779546117,FALSE,"8S","","2022-12-22",672488495,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1968,4.56952922548955,FALSE,"8S","","2022-12-22",688104253,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1973,3.84126466366172,FALSE,"8S","","2022-12-22",770165966,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1970,5.83842564105899,FALSE,"8S","","2022-12-22",720496162,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1971,0.617746446264505,FALSE,"8S","","2022-12-22",736228624,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1972,-1.79601227838317,TRUE,"8S","","2022-12-22",752485568,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1974,2.46101228916784,FALSE,"8S","","2022-12-22",788296824,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1975,6.93198659897791,FALSE,"8S","","2022-12-22",806685026,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"South Asia","SAS","South Asia",1976,2.57019073649694,FALSE,"8S","","2022-12-22",825242937,"Aggregates","","","","Aggregates","Aggregates",6.2734334976755575
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1961,0.957600718956272,FALSE,"ZG","","2022-12-22",233483265,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1962,6.05845318711195,FALSE,"ZG","","2022-12-22",239280622,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1963,6.11208935707803,FALSE,"ZG","","2022-12-22",245298063,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1964,4.94967864906586,FALSE,"ZG","","2022-12-22",251565974,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1965,4.75041383463297,FALSE,"ZG","","2022-12-22",258078554,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1966,1.33195102957022,FALSE,"ZG","","2022-12-22",264754002,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1967,-1.24686964101278,TRUE,"ZG","","2022-12-22",271633185,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1968,2.98106016079527,FALSE,"ZG","","2022-12-22",278796894,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1969,9.37865458522278,FALSE,"ZG","","2022-12-22",286211901,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1970,10.2876699034456,FALSE,"ZG","","2022-12-22",293900563,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1971,7.8372170724452,FALSE,"ZG","","2022-12-22",301839225,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1972,2.61470209285352,FALSE,"ZG","","2022-12-22",309963136,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1973,4.3419822566489,FALSE,"ZG","","2022-12-22",318464764,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1974,7.92219747672154,FALSE,"ZG","","2022-12-22",327466848,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1975,-0.130650431992251,TRUE,"ZG","","2022-12-22",336832917,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1976,5.52022276895308,FALSE,"ZG","","2022-12-22",346461069,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1977,2.90930366216038,FALSE,"ZG","","2022-12-22",356243762,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1978,-0.541739557623259,TRUE,"ZG","","2022-12-22",366688083,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1979,3.96681137352022,FALSE,"ZG","","2022-12-22",377775643,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1980,3.77232630814166,FALSE,"ZG","","2022-12-22",388793467,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1981,-0.758311675232164,TRUE,"ZG","","2022-12-22",400260774,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1982,-1.09173609627888,TRUE,"ZG","","2022-12-22",412410102,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1983,-2.52844502657061,TRUE,"ZG","","2022-12-22",424346370,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1984,2.06883619707925,FALSE,"ZG","","2022-12-22",436263644,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1985,1.82098989801818,FALSE,"ZG","","2022-12-22",448755435,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1986,1.94607829335742,FALSE,"ZG","","2022-12-22",461756164,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1987,3.15134703432629,FALSE,"ZG","","2022-12-22",475250346,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1988,4.3415773170145,FALSE,"ZG","","2022-12-22",488764908,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1989,2.66641358851152,FALSE,"ZG","","2022-12-22",502517080,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1990,2.47992124296381,FALSE,"ZG","","2022-12-22",516629688,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1991,0.508587403100876,FALSE,"ZG","","2022-12-22",530716971,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1992,-0.111686852417776,TRUE,"ZG","","2022-12-22",544899623,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1993,-0.704851825484667,TRUE,"ZG","","2022-12-22",559413902,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1994,1.07858967526917,FALSE,"ZG","","2022-12-22",574094137,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1995,3.34544801347909,FALSE,"ZG","","2022-12-22",589328085,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1996,5.1157240749464,FALSE,"ZG","","2022-12-22",605186062,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1997,4.35148015497089,FALSE,"ZG","","2022-12-22",621065325,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1998,2.49363912540757,FALSE,"ZG","","2022-12-22",637198518,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",1999,2.16306209614929,FALSE,"ZG","","2022-12-22",653883261,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2000,3.50694141530195,FALSE,"ZG","","2022-12-22",671212486,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2001,4.27129489047712,FALSE,"ZG","","2022-12-22",689161982,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2002,6.30988671615656,FALSE,"ZG","","2022-12-22",707693440,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2003,4.1001692808303,FALSE,"ZG","","2022-12-22",726785433,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2004,6.55845258061549,FALSE,"ZG","","2022-12-22",746546802,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2005,6.00507947326341,FALSE,"ZG","","2022-12-22",766978666,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2006,6.06152748667851,FALSE,"ZG","","2022-12-22",788110000,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2007,6.13604145094186,FALSE,"ZG","","2022-12-22",810019264,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2008,5.13017661662501,FALSE,"ZG","","2022-12-22",832642735,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2009,2.99178197032803,FALSE,"ZG","","2022-12-22",855885698,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2010,5.95593172427755,FALSE,"ZG","","2022-12-22",879797419,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2011,4.1991759131881,FALSE,"ZG","","2022-12-22",904282154,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2012,2.71185166822261,FALSE,"ZG","","2022-12-22",929328653,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2013,5.0635183598479,FALSE,"ZG","","2022-12-22",955096428,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2014,4.8623967350746,FALSE,"ZG","","2022-12-22",981506334,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2015,2.87142271590066,FALSE,"ZG","","2022-12-22",1008698525,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2016,1.26714213718293,FALSE,"ZG","","2022-12-22",1036155715,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2017,2.43826000707364,FALSE,"ZG","","2022-12-22",1063885000,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2018,2.70570645259967,FALSE,"ZG","","2022-12-22",1092403699,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"Sub-Saharan Africa","SSF","Sub-Saharan Africa",2019,2.5776397337378,FALSE,"ZG","","2022-12-22",1121548775,NA,NA,NA,NA,NA,NA,3.4653045447105457
+"World","WLD","World (WBG members)",1961,3.78997874897406,FALSE,"1W","","2022-12-22",3072510552,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1962,5.31603745223454,FALSE,"1W","","2022-12-22",3126934725,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1963,5.18539614272058,FALSE,"1W","","2022-12-22",3193508879,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1964,6.55828455422598,FALSE,"1W","","2022-12-22",3260517816,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1965,5.54913054792064,FALSE,"1W","","2022-12-22",3328284623,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1966,5.71263324051361,FALSE,"1W","","2022-12-22",3398561224,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1967,4.1525815135107,FALSE,"1W","","2022-12-22",3468457168,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1968,5.94228572927837,FALSE,"1W","","2022-12-22",3540254815,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1969,5.81490055148839,FALSE,"1W","","2022-12-22",3614668576,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1970,3.96855809668347,FALSE,"1W","","2022-12-22",3690306927,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1971,4.27626621342847,FALSE,"1W","","2022-12-22",3768023181,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1972,5.61607240201691,FALSE,"1W","","2022-12-22",3843695351,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1973,6.40743351390884,FALSE,"1W","","2022-12-22",3920099706,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1974,1.79539371951962,FALSE,"1W","","2022-12-22",3995972023,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1975,0.633871865617991,FALSE,"1W","","2022-12-22",4070114517,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1976,5.30319479703594,FALSE,"1W","","2022-12-22",4143194666,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1977,4.09947863813622,FALSE,"1W","","2022-12-22",4215940807,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1978,4.13705432054199,FALSE,"1W","","2022-12-22",4289914737,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1979,4.17580758369782,FALSE,"1W","","2022-12-22",4365850756,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1980,1.87716831185196,FALSE,"1W","","2022-12-22",4442440474,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1981,1.93214366030709,FALSE,"1W","","2022-12-22",4520991254,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1982,0.393710033269741,FALSE,"1W","","2022-12-22",4602763792,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1983,2.64911331951029,FALSE,"1W","","2022-12-22",4684941826,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1984,4.674492234512,FALSE,"1W","","2022-12-22",4766716805,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1985,3.69860668389124,FALSE,"1W","","2022-12-22",4850160867,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1986,3.44286638142385,FALSE,"1W","","2022-12-22",4936097368,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1987,3.73217673998565,FALSE,"1W","","2022-12-22",5024386163,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1988,4.63828003130573,FALSE,"1W","","2022-12-22",5113492328,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1989,3.75422976662765,FALSE,"1W","","2022-12-22",5202698711,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1990,2.86593773063598,FALSE,"1W","","2022-12-22",5293517142,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1991,1.4598049277956,FALSE,"1W","","2022-12-22",5382656065,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1992,2.06976618277064,FALSE,"1W","","2022-12-22",5470276947,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1993,1.8081610850504,FALSE,"1W","","2022-12-22",5556722537,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1994,3.3053883355168,FALSE,"1W","","2022-12-22",5642128764,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1995,3.09206323764737,FALSE,"1W","","2022-12-22",5726801833,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1996,3.59320678847735,FALSE,"1W","","2022-12-22",5811624986,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1997,3.87773490009913,FALSE,"1W","","2022-12-22",5896077736,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1998,2.81917536609659,FALSE,"1W","","2022-12-22",5979730356,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",1999,3.55283987030062,FALSE,"1W","","2022-12-22",6062281732,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2000,4.51495666975022,FALSE,"1W","","2022-12-22",6144322697,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2001,2.00920320572551,FALSE,"1W","","2022-12-22",6226339538,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2002,2.3048276718123,FALSE,"1W","","2022-12-22",6308092739,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2003,3.10962653561648,FALSE,"1W","","2022-12-22",6389383352,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2004,4.47124067481792,FALSE,"1W","","2022-12-22",6470821068,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2005,4.00459714398013,FALSE,"1W","","2022-12-22",6552571570,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2006,4.42042540010897,FALSE,"1W","","2022-12-22",6634935638,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2007,4.3819007711502,FALSE,"1W","","2022-12-22",6717641730,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2008,2.06917577064544,FALSE,"1W","","2022-12-22",6801408360,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2009,-1.34144814525818,TRUE,"1W","","2022-12-22",6885490816,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2010,4.54083828749657,FALSE,"1W","","2022-12-22",6969631901,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2011,3.31032368373643,FALSE,"1W","","2022-12-22",7053533350,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2012,2.70917924804091,FALSE,"1W","","2022-12-22",7140895722,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2013,2.80785406404401,FALSE,"1W","","2022-12-22",7229184551,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2014,3.09009286526273,FALSE,"1W","","2022-12-22",7317508753,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2015,3.07856833226265,FALSE,"1W","","2022-12-22",7404910892,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2016,2.80195840942091,FALSE,"1W","","2022-12-22",7491934113,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2017,3.38496428719715,FALSE,"1W","","2022-12-22",7578157615,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2018,3.2855374519946,FALSE,"1W","","2022-12-22",7661776338,"Aggregates","","","","Aggregates","Aggregates",NA
+"World","WLD","World (WBG members)",2019,2.59129025782595,FALSE,"1W","","2022-12-22",7742681934,"Aggregates","","","","Aggregates","Aggregates",NA
